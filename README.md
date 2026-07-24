@@ -2,6 +2,8 @@
 
 > ⚠️ **Sanitized portfolio artifact.** Everything here is sanitized — templates, excerpts, and methodology only, with no sensitive or proprietary organizational information.
 
+### 📄 [Read the GRC / ATO case study →](CASE-STUDY.md)
+
 ## Executive Overview
 This repository presents a sanitized Governance, Risk, and Compliance (GRC) authorization support package aligned with NIST RMF and NIST 800-53. It demonstrates hands-on experience in SSP development, security control assessments, continuous monitoring, audit readiness, and enterprise risk management across hybrid cloud and on-prem environments.
 
